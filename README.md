@@ -13,7 +13,7 @@ Follow these steps to set up and deploy the chat app.
 First, clone the repository to your local machine:
 
 ```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/your-repo-name.git
+git clone https://github.com/tdiderich/cs-chat-app.git
 cd your-repo-name
 ```
 
